@@ -59,7 +59,7 @@ python3 multicast-checker.py -h
 ```
 
 ```
-
+```
 ## Features
 
 * checking the availability of the UDP channels;
