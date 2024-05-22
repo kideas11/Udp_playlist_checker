@@ -1,4 +1,4 @@
-# :rainbow::rainbow::rainbow: MULTICAST-CHECKER :rainbow::rainbow::rainbow:
+#  MULTICAST-CHECKER
 
 > YOUR USAGE OF THE SCRIPTS IS AT YOUR OWN RISK
 ## Installing / Getting started
